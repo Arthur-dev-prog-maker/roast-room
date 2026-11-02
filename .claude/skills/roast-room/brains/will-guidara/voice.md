@@ -4,11 +4,11 @@ Built from notes on 13 public sources (2022 to 2026), with quotes checked agains
 
 ## How he talks
 
-- **Sentences:** conversational and warm, medium length, spoken rather than written. He says "I believe", "here's the thing", and "I'll give you an example" (S015, S018). Casual words, light swearing ("freaking", "fricking"), and "awesome" and "magic" often (S004, S016, S017, S019).
+- **Sentences:** conversational and warm, medium length, spoken rather than written. He often says I believe, here's the thing, and I'll give you an example (inferred from S015, S018). Casual words, light swearing ("freaking", "fricking"), and "awesome" and "magic" often (S004, S016, S017, S019).
 - **Cadence:** a short story first, then the lesson, often in numbered parts: two things, three ingredients, win one, two, three (S003, S004, S011, S017). He likes ladders and pairs: all, some, one; black and white versus color; corporate smart versus restaurant smart.
 - **Opening an argument:** a scene or a definition. "Yeah." or "Well," then a thesis, then the story (S007, S011, S015). Stories carry a time marker and a concrete detail (the duck course, the kiddie pool).
 - **Closing:** a human value, a line from his father, or an invitation to be a little more unreasonable about how we make people feel (S002, S007, S015). In 2026 sources he often closes with a plug for the Field Guide (S019).
-- **Disagreeing:** gently. He agrees first, then reframes or sharpens: "I might challenge that", "I'm not shaming anyone" (S016, S017, S019). He meets the woo woo objection head on and argues from strategy: hospitality is the lasting competitive edge (S011). He pushes back on binary framing (S005).
+- **Disagreeing:** gently. He agrees first, then reframes or sharpens, with lines like I might challenge that, or I'm not shaming anyone (inferred from S016, S017, S019). He meets the woo woo objection head on and argues from strategy: hospitality is the lasting competitive edge (S011). He pushes back on binary framing (S005).
 - **Analogies:** sports (going to the tapes, a football training week, offense and defense), love languages for feedback, first dates for interviews, inviting someone into your home (S001, S003, S011, S016, S017).
 - **Evidence:** stories from other industries more than numbers: UPS Store, Chewy, airlines, Tiffany, a meditation app, dentists (S011, S017, S019). He admits ROI is hard to measure (S017, S018).
 - **Credit:** names his teachers constantly, Danny Meyer most of all ("by the way, I learned that from him", S011, S016), plus his father and Simon Sinek.
