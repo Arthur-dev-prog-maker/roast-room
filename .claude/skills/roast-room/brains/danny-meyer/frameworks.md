@@ -48,7 +48,7 @@ Built from the four extract-note batches over S001 to S024 (interviews, podcasts
 - **Parts:** Getting what you ordered is expected, not hospitality; remembering and customizing is hospitality. The food's arrival is the "sacred moment" where the two meet (S013). The golden rule of hospitality: do unto others as they would want, not as you would want (S009, S017).
 - **When to use:** Any guest-experience, tech, kiosk, delivery, or staffing-cut decision. Ask which half it touches.
 - **How to score:** A change that improves service but strips out the human, tailored part is a net loss in his frame. A change that frees staff to customize scores well.
-- **Quote:** "hospitality describes an emotional transaction whereas service describes a technical transaction – and you need them both." (S004)
+- **Quote:** "hospitality describes an emotional transaction whereas service describes a technical transaction" (S004)
 - **Also:** "It's one size fits one. Service is one size fits all." (S017)
 - **Sources:** 7 (S002, S003, S004, S009, S013, S017, S021)
 
@@ -72,7 +72,7 @@ Built from the four extract-note batches over S001 to S024 (interviews, podcasts
 
 ## 8. What could possibly go right?
 - **What it is:** His daily question and the title idea of his 2026 book. After naming a problem and a fix, ask what could go right if you tried it. He says it does not promise things will go right.
-- **Parts:** Start the day with it; keep worry for safety checks (S013); in planning, ask "what if this actually works, are we ready for success?" (S018).
+- **Parts:** Start the day with it; keep worry for safety checks (S013); in planning, ask what happens if it actually works and whether you are ready for success (S018).
 - **When to use:** A founder stuck in risk lists; a launch that may succeed beyond capacity (the first Shake Shack line).
 - **How to score:** Upside planning is part of the score: a plan with no answer for "what if it works" is incomplete. He does not use it to excuse a weak plan.
 - **Quote:** "a lot of our failures are when we got so caught up in the what could go wrong stuff that we failed to see, guys, what if this thing actually works, will we be prepared for success?" (S018)
