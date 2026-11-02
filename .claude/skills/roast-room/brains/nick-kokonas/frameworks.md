@@ -2,7 +2,7 @@
 
 Built from notes on 12 public sources (2011 to 2026), with quotes checked against the live pages.
 
-13 frameworks, most-used first. "Sources" counts distinct sources; S010 and S011 are the same essay and count as one (written S010/S011). Names are his where he named them; otherwise a short name marked *(unnamed)*. The How-to-score lines are guidance for the council built from his stated numbers, not quotes. The Fit lines flag where his experience (a sold-out, prepaid tasting-menu destination and a venture-backed reservation software company) transfers badly to a neighborhood or casual operator.
+13 frameworks, most-used first. The Sources line counts distinct sources; S010 and S011 are the same essay and count as one (written S010/S011). Names are his where he named them; otherwise a short name marked *(unnamed)*. The How-to-score lines are guidance for the council built from his stated numbers, not quotes. The Fit lines flag where his experience (a sold-out, prepaid tasting-menu destination and a venture-backed reservation software company) transfers badly to a neighborhood or casual operator.
 
 ---
 
@@ -36,7 +36,7 @@ Built from notes on 12 public sources (2011 to 2026), with quotes checked agains
 ## 4. Find the mispricing: why-questions, read the rules, every arbitrage is a time scale *(unnamed)*
 - **What it is:** Conventions persist because nobody asks why, and opacity is where margin hides. An arbitrage exists because some step is slow; find the slow step, build the faster path, and take the gap a little at a time, because every arb closes.
 - **Parts:** Ask why a convention exists (host stands, phone reservations, publisher advances, S001). Ask the vendor why a price is what it is: a beef quote fell from $34 to $18 a pound on a four-month prepay once he learned the aging cycle (S004). Find the true cost of goods (about $2.23 a book on a print run for a book retailing near $60, S001). Read the actual regulations; most people and their lawyers go by habit (S006). Count a competitor's claimed clients yourself (S011). Ask who benefits from the old system (hosts taking cash tips to hold tables, S004, S005). Aim for small, high hoops: fields with a scary failure rate, few players, and a good prize (S001, S006).
-- **When to use:** Vendor negotiations, any industry norm treated as fixed, platform contracts, a pitch that rests on "that is how it is done".
+- **When to use:** Vendor negotiations, any industry norm treated as fixed, platform contracts, a pitch that rests on doing it the way the industry always has.
 - **How to score:** High if the founder can name the slow step or hidden cost and the evidence they checked. Low if the plan copies industry practice without knowing why it exists.
 - **Fit:** Transfers well at any size. The trading-floor arbitrages are dated, and he says one that still worked would not be discussed on a podcast (S006).
 - **Quote:** "Nothing's priced forever." (S006); "I always try to look for the high, small hoops." (S001)
@@ -53,7 +53,7 @@ Built from notes on 12 public sources (2011 to 2026), with quotes checked agains
 
 ## 6. Know what you are selling (the Gramercy Tavern test)
 - **What it is:** List every distinct thing a venue sells and make each one choosable before the guest arrives. People cannot buy what they cannot see.
-- **Parts:** List the products: tavern bar, a la carte room, tasting menus, private rooms, cookbook, merchandise (S004, S005). Expose each as a bookable choice. Show real inventory, not "available or not", or guests phone anyway (S017, S001). Put add-ons (wine pairings, books) in the booking flow, not at the end of the meal where they feel like an upsell (S001). Choose the booking mix per experience (S011).
+- **Parts:** List the products: tavern bar, a la carte room, tasting menus, private rooms, cookbook, merchandise (S004, S005). Expose each as a bookable choice. Show real inventory, not just a yes or no on availability, or guests phone anyway (S017, S001). Put add-ons (wine pairings, books) in the booking flow, not at the end of the meal where they feel like an upsell (S001). Choose the booking mix per experience (S011).
 - **When to use:** Multi-room venues, private events, packages, add-on and pre-order sales, any operator who learns the night's mix only at the door.
 - **How to score:** 5 if every revenue stream can be bought ahead and the operator knows the mix before service. 1 if guests discover the options only after arriving.
 - **Fit:** Strong for venues with several offers under one roof. A single-format counter shop has little to expose.
@@ -73,14 +73,14 @@ Built from notes on 12 public sources (2011 to 2026), with quotes checked agains
 - **What it is:** Read how a platform makes money before signing, and match the fee to the channel. Percent-of-gross fits food leaving the back door; it does not fit a dining room seat.
 - **Parts:** Third-party delivery at 20 to 30 percent was tolerable as supplemental income and egregious when it became the only revenue (S002). His own channel ran at a flat 3 percent, with the diner paying $1 for pickup or a flat $5 to $7 for delivery (S002, S004). Network test for a competitor: real clients times plausible fee, against capital burned; about 521 mid-tier clients at roughly $200 a month is only about $100k MRR (S011). A cheap SaaS fee cannot fund software, so the money is in payments (S005, S010). Card-present versus card-not-present rates are a lever (S004, S005).
 - **When to use:** Delivery and takeout channel decisions, reservation and POS contracts, evaluating a vendor's pitch.
-- **How to score:** High if the operator knows the effective fee per order and what share of the channel's guests were already theirs. Low if the platform's claimed "network" is taken on faith.
+- **How to score:** High if the operator knows the effective fee per order and what share of the channel's guests were already theirs. Low if the platform's claimed network is taken on faith.
 - **Fit:** He preferred pickup to delivery and was not a fan of last-mile economics (S005). His flat-fee alternative was his own product.
 - **Quote:** "Charging a percentage of gross works for sending a burger out the back door of the kitchen, but it won’t work in the dining room." (S010)
 - **Sources:** 5 (S002, S004, S005, S010/S011, S012)
 
 ## 9. Sell the experience, effect first *(unnamed)*
 - **What it is:** The business sells a moment, like a concert or a game; food is the vehicle. Design backwards: decide the feeling, then the method, then the presentation (the magician's order).
-- **Parts:** Effect, method, presentation (S006). Plant something early and pay it off later; clear clutter so each thing means something (S006). Build tension and release it, as theater does (S018). Keep it fun and social, not a temple; his repeated message was "fun and delicious" (S004, S007). Stand on the guest's side of the table and help them feel smart (S006).
+- **Parts:** Effect, method, presentation (S006). Plant something early and pay it off later; clear clutter so each thing means something (S006). Build tension and release it, as theater does (S018). Keep it fun and social, not a temple; his repeated message was "fun and delicious" (S004); the guest wants a fun, social night (S007). Stand on the guest's side of the table and help them feel smart (S006).
 - **When to use:** Concept design, special events, service training, justifying a price above the food cost.
 - **How to score:** High if the founder can say in one page what it feels like to be there (his one-page diner test, S004). Low if the pitch is the menu.
 - **Fit:** Built on a $300-a-head destination where each night is someone's big night (S007). At a neighborhood spot the experience is familiarity and speed more than theater. Inferred from S007, S009.
@@ -109,7 +109,7 @@ Built from notes on 12 public sources (2011 to 2026), with quotes checked agains
 - **What it is:** Build what the business should earn if everything ran perfectly, compare it to what you see, and attack the gap. Size any concept on an envelope before building.
 - **Parts:** Inputs: covers per night, food and beverage check averages, food and beverage cost, labor, insurance, rent (S001). He says it modelled other restaurants within roughly 2 to 3 percent from two restaurants' real data (S001). Throughput times ticket times days, then variable costs, before the story (S006). A plan fits on one page or he does not understand it (S004). Walk away from an idea that fails the math (S009).
 - **When to use:** New concepts, pop-ups, carryout pivots, any plan pitched on story.
-- **How to score:** Guidance: he set a floor for one large concept (should not gross under $20M at roughly a $120 ticket, S006) and warned that pop-ups often lose money on production cost (S006). Score high if the founder's envelope covers costs at realistic throughput; low if the name and logo came before the math (his "time machine" plan, S001).
+- **How to score:** Guidance: he set a floor for one large concept (should not gross under $20M at roughly a $120 ticket, S006) and warned that pop-ups often lose money on production cost (S006). Score high if the founder's envelope covers costs at realistic throughput; low if the name and logo came before the math (his time machine plan, S001).
 - **Fit:** Transfers well; the specific thresholds are for large-format concepts.
 - **Quote:** "This will be run as a business first. It's not an art project." (S004); "There’s no point in looking at the dimes if you’ve got something that costs $1,000. Start there." (S001)
 - **Sources:** 4 (S001, S004, S006, S009)

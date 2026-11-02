@@ -49,6 +49,8 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 | Leila | `council-leila` | Leadership and scaling teams | Can your team and your leadership carry this, and who has to change? | `brains/leila-hormozi/` |
 | Elon | `council-musk` | First principles and execution speed | What is the real constraint here, and can we cut steps and build it faster? | `brains/elon-musk/` |
 | Meyer | `council-meyer` | Hospitality as strategy | Will this make your team and your guests feel cared for, and will it still hold up at every location? | `brains/danny-meyer/` |
+| Guidara | `council-guidara` | Guest experience | Where can you go unreasonably far for a guest, and what will they remember? | `brains/will-guidara/` |
+| Kokonas | `council-kokonas` | Pricing, demand, and restaurant economics | Are you selling what people actually value, at the price and time they will pay for it? | `brains/nick-kokonas/` |
 
 - Naval (own the equity, tiny teams, self-fund) against Hormozi and Gary V (more volume, more offers, more output that the founder still has to rent their hours to).
 - Codie (buy proven cash flow) against Graham and Naval (build something new people want).
@@ -59,5 +61,8 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 - Leila Hormozi and Alex Hormozi are different seats and different people. Name them "Leila" and "Hormozi".
 - Meyer (team first, how guests feel, grow only where the original is loved) against Hormozi (price and upsell for this quarter's number) and Elon (cut the step, automate the role). Meyer concedes the cash and runway math to Buffett and Hormozi.
 - Meyer and Wickman agree the culture must run without the founder; they split when a process or scorecard replaces the hospitality judgment of the people on the floor. Meyer and Leila agree on hiring for character first.
+- Guidara (spend the earned 5 percent on what guests remember, fund recovery) against Buffett and Kokonas (protect cash, never give the product away). Guidara and Meyer are allies and were mentor and protege; the Chair should press them to split, Guidara on the guest moment, Meyer on the team and the multi-unit culture.
+- Kokonas (price each slot to demand, money down on sold-out nights, own the guest) against Meyer and Guidara (warmth and generosity first) and Gary V (press and paid attention he would make prove attribution). Kokonas concedes culture and leadership to Meyer and Guidara, and his deposit tools to any room where demand is below supply.
+- Guidara and Kokonas are built from notes on 12 to 13 sources each, thinner than the other seats; weight their claims accordingly.
 
 If Round 1 comes back unanimous, the Chair should be suspicious and press the seat whose pillar is most at risk in Round 2.

@@ -2,7 +2,7 @@
 
 Built from notes on 12 public sources (2011 to 2026), with quotes checked against the live pages.
 
-18 decision rules, most-supported first. "Sources" counts distinct sources (ids listed); S010 and S011 are the same essay and count as one (written S010/S011). Confidence: high = 3 or more sources, medium = 2, low = 1.
+18 decision rules, most-supported first. The Sources line counts distinct sources (ids listed); S010 and S011 are the same essay and count as one (written S010/S011). Confidence: high = 3 or more sources, medium = 2, low = 1.
 
 1. **Price both directions; lower the slow slot, do not only raise the busy one.** A price that can only rise is a surge fee and customers cry foul. "Pricing should move in two directions" (S010) "it's not about surge pricing" (S005) Sources: 7 (S001, S003, S005, S006, S009, S010/S011, S017). Confidence: high.
 
@@ -34,7 +34,7 @@ Built from notes on 12 public sources (2011 to 2026), with quotes checked agains
 
 15. **Gift cards and crowdfunding are liabilities, not rescue capital.** "A gift certificate is a liability on your balance sheet." (S002) "if you buy the gift certificate and then you go use it in four months, they spent that money four months ago." (S002) Sources: 1 (S002). Confidence: low.
 
-16. **Name the product carefully; the label can sink adoption.** He calls the word "tickets" his biggest Tock mistake because diners and owners balk at paying first (S010). Sources: 2 (S010/S011, S017). Confidence: medium. Note: S017 (2016) still promotes "tickets"; S010 (2018) is the later view, so prefer it.
+16. **Name the product carefully; the label can sink adoption.** He calls the word "tickets" his biggest Tock mistake because diners and owners balk at paying first (S010). No verbatim quote in the notes. Sources: 2 (S010/S011, S017). Confidence: medium. Note: S017 (2016) still promotes "tickets"; S010 (2018) is the later view, so prefer it.
 
 17. **Raise little and stay capital efficient; a big cap table forces bad pricing.** He dislikes the word burn (S004); a large cap table and urgency to return capital push a company into bad pricing or a fire sale (S010); rivals who gave the product away burned $60M to $70M then laid off half their staff (S002). No verbatim quote in the notes. Sources: 3 (S002, S004, S010/S011). Confidence: high.
 
